@@ -804,8 +804,8 @@
 720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True,1
 720,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,True,1
 721,Volcanion,Fire,Water,600,80,110,120,130,90,70,6,True,1
-722,Chiplet,Artificial,Electric,320,50,45,55,70,50,50,7,False,1
-723,Circuiton,Artificial,Electric,450,70,65,75,95,70,75,7,False,2
-724,Mechadra,Artificial,Dragon,610,95,110,100,120,90,95,7,False,3
-725,MegaMechadra,Artificial,Dragon,750,110,145,130,150,110,105,7,False,4
+722,Glitchlet,Artificial,Electric,320,50,45,55,70,50,50,7,False,1
+723,Cyberon,Artificial,Electric,450,70,65,75,95,70,75,7,False,2
+724,Synthedra,Artificial,Dragon,610,95,110,100,120,90,95,7,False,3
+725,MegaSynthedra,Artificial,Dragon,750,110,145,130,150,110,105,7,False,4
 726,Quantox,Artificial,Psychic,680,100,90,95,145,120,130,7,True,1
