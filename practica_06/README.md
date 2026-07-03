@@ -34,7 +34,7 @@ ECBD_9B_PRACTICAS_230410/
 
 ## Descarga de los datasets
 
-Los archivos necesarios para ejecutar la práctica pueden obtenerse desde las siguientes fuentes:
+Los archivos necesarios para ejecutar la práctica pueden obtenerse desde la siguiente fuente:
 
 ### 1. Kaggle
 
@@ -42,10 +42,6 @@ Dataset original:
 
 - https://www.kaggle.com/datasets/perkymaster/school-donations
 
-### 2. Google Drive
-
-
-- https://drive.google.com/file/d/1qNfFwtbpwUD9t9fQuGEftOUP4WcP1E0w/view?usp=drive_link
 
 ---
 
