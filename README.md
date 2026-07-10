@@ -10,12 +10,11 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 
 ## Historial de Prácticas
 
-Aquí tienes la tabla actualizada con las fechas agregadas.
 
 | No. | Descripción | Potenciador | Estatus | Fecha |
 |---|-------------|------------|---------|--------|
-| 1 | Introducción al uso de Python en el Análisis de Datos |  | Pendiente | 03/06/2026 |
-| 2 |  |  |  |  |
+| 1 | Práctica 05: Análisis Exploratorio de Datos (EDA) con Python y Jupyter| 50 | completo | 03/06/2026 |
+| 2 | Práctica 06: Manejo de Mapas de Calor Georeferenciables en el Análisis EDA | 63 | completa | 08/07/2026 |
 | 3 |  |  |  |  |
 | 4 |  |  |  |  |
 | 5 |  |  |  |  |
