@@ -19,6 +19,7 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 | 4 | Práctica 08: Visualización de personas diagnosticadas con diabetes en el estado de Puebla (Analisis Supervisado) | 50 | Completo | 17/07/2026 |
 | 5 | Práctica 09:  Calcular el Riesgo de Coma Diabético en Pacientes de Xicotepec (Análisis Supervisado) | 50 | completa | 17/07/2026 |
 | 6 | Práctica 10:  3D Scatter Plot con Sprites de Pokemons | 50 | completa | 06/08/2026 |
+| 7 | Práctica 11: Algoritmos de Análisis No Supervisado, Clientes de Centros Comerciales | 50 | completa | 07/08/2026 |
 
 
 # Autor del Repositorio
